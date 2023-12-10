@@ -19,6 +19,7 @@ function App() {
           <Route path="/shop" element={<Shop />} />
         </Routes>
         <Footer />
+        <h1>gitle islemek/</h1>
       </div>
     </BrowserRouter>
   );
