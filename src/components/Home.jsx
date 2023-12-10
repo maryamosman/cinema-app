@@ -7,6 +7,7 @@ function Home() {
   return (
     <div>
       <h1>home da deyisiklik etdim</h1>
+      <h2>ikinci deyisiklik</h2>
       <Tabs
         defaultActiveKey="profile"
         id="fill-tab-example"
