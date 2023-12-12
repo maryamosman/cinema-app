@@ -6,7 +6,7 @@ import Tabs from "react-bootstrap/Tabs";
 function Home() {
   return (
     <div>
-      <h1>welcomee</h1>
+      <h1>welcomee home page</h1>
       <Tabs
         defaultActiveKey="profile"
         id="fill-tab-example"
